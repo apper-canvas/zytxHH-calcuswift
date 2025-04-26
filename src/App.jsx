@@ -32,7 +32,7 @@ function App() {
             transition={{ duration: 0.5 }}
             className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent"
           >
-            ICal
+            SMart Calculator
           </motion.div>
         </div>
         
@@ -58,7 +58,7 @@ function App() {
       </main>
       
       <footer className="py-4 px-6 text-center text-sm text-surface-500">
-        <p>© {new Date().getFullYear()} ICal. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} SMart Calculator. All rights reserved.</p>
       </footer>
     </div>
   );
